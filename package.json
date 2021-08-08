@@ -1,0 +1,25 @@
+{
+  "name": "gitgogot",
+  "version": "1.0.0",
+  "description": "funstuffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlpanetta1681/gitgogot.git"
+  },
+  "author": "Joe Panetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlpanetta1681/gitgogot/issues"
+  },
+  "homepage": "https://github.com/jlpanetta1681/gitgogot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.46.0"
+  }
+}
